@@ -1,3 +1,3 @@
 # Image-Compression
 
-Code to convert image to JPEG format
+Code To Convert Image to JPEG format
